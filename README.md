@@ -10,4 +10,4 @@ This project focuses on the geostatistical map of crimes and tries to create a f
 
 This project will use the Gaussian process model and examine which covariance function gives the most accurate prediction results. In order to do the examination, we will study the rate of crimes in the previous years, including the last year given, and then predict the crime rate of the last given year with a number of different covariance functions, the last step is to check which of the covariance functions gives the most accurate prediction. In practice, we will study the crime rate of 2013-2017, then predict the last year that is given 2017 several times, each time with other covariance function and compare it to the actual data until we reach the covariance function that will give the most accurate prediction.
 
-# More Information available in the Project book & User manual files.
+# More Information available in the Project book & User manual.
